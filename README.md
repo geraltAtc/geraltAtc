@@ -2,7 +2,7 @@
 
 ## My name is Alex. I'm a beginner Frontend developer.
 
-### Languages and Tools
+### 🛠 Languages and Tools
 ![React](https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB
 )
 ![TypeScript](https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6
@@ -13,7 +13,7 @@
 )
 ![CSS](https://img.shields.io/badge/CSS-282C34?logo=css3&logoColor=1572B6
 )
-### And I would like to know that guys too.
+### 📖 And I would like to know that guys too.
 ![Sass](https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699
 )
 ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-282C34?logo=tailwind-css&logoColor=38B2AC
@@ -27,4 +27,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248
 )
 
-Follow me
+### 🔍 Links
+[![VK](https://img.shields.io/badge/VK-282C34?logo=vk&logoColor=4F7DB3
+)](https://vk.com/geralt_atc)
+[![Tg](https://img.shields.io/badge/Tg-282C34?logo=telegram&logoColor=27A0D9
+)](https://t.me/geralt_atc)
