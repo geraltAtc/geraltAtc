@@ -3,7 +3,7 @@
 ## My name is Alex. I'm a beginner Frontend developer.
 
 ### 🛠 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,figma
+![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,figma,git
 )
 ### 📖 And I would like to know that guys too.
 ![Learn](https://skillicons.dev/icons?i=sass,tailwindcss,nodejs,nextjs,expressjs,mongodb
