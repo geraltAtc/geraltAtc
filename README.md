@@ -1,6 +1,6 @@
 ![Header](https://github.com/geraltAtc/geraltAtc/blob/main/assets/header.png)
 
-## My name is Alex. I'm a beginner Frontend developer.
+## My name is Alex. I'm a beginner developer.
 
 ### 🛠 Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,git
@@ -8,12 +8,6 @@
 ### 📖 And I would like to know that guys too.
 ![Learn](https://skillicons.dev/icons?i=sass,vue,angular,tailwindcss,nodejs,nextjs,expressjs,mongodb
 )
-
-### 🔍 Links
-[![VK](https://img.shields.io/badge/VK-282C34?logo=vk&logoColor=4F7DB3
-)](https://vk.com/geralt_atc)
-[![Tg](https://img.shields.io/badge/Tg-282C34?logo=telegram&logoColor=27A0D9
-)](https://t.me/geralt_atc)
 
 ## Stats
 
