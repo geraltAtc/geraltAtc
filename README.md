@@ -1,4 +1,4 @@
-![Header](https://github.com/geraltAtc/geraltAtc/blob/main/assets/header.png)
+![Header](https://github.com/geraltAtc/geraltAtc/blob/main/assets/header2.jpg)
 
 ## My name is Alex. I'm a beginner developer.
 
