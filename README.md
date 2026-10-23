@@ -1,14 +1,5 @@
 ![Header](https://github.com/geraltAtc/geraltAtc/blob/main/assets/header2.jpg)
 
-## My name is Alex. I'm a beginner developer.
-
-### 🛠 Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,figma,git
-)
-### 📖 And I would like to know that guys too.
-![Learn](https://skillicons.dev/icons?i=sass,vue,angular,tailwindcss,nodejs,nextjs,expressjs,mongodb
-)
-
 ## Stats
 
 <!-- [![geraltAtc's GitHub stats](https://github-readme-stats.vercel.app/api?username=geraltAtc)](https://github.com/anuraghazra/github-readme-stats
